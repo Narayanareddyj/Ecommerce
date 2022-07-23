@@ -1,2 +1,2 @@
 # Ecommerce
-webpage
+webpage for shopping
